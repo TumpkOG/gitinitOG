@@ -1,1 +1,1 @@
-# gitinitOG
+# gitinit
